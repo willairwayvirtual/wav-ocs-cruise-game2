@@ -308,7 +308,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 134891224}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 749029777}
+        m_TargetAssemblyTypeName: menu3, Assembly-CSharp
+        m_MethodName: Quit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &134891224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -429,7 +441,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 331811829}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 749029777}
+        m_TargetAssemblyTypeName: menu3, Assembly-CSharp
+        m_MethodName: playgame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &331811829
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -952,7 +976,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 749029774}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 882a1a31fb5d1294cacb98257ec04873, type: 3}
+  m_Script: {fileID: 11500000, guid: 0b79f3d905d005648a9d213199b1d181, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1222949812

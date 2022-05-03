@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 65051516}
   - component: {fileID: 65051515}
   m_Layer: 0
-  m_Name: level1
+  m_Name: deck1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -342,7 +342,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level 1
+  m_Text: deck 1
 --- !u!222 &240895935
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -459,7 +459,7 @@ GameObject:
   - component: {fileID: 274233996}
   - component: {fileID: 274233995}
   m_Layer: 0
-  m_Name: 'level6 '
+  m_Name: 'deck6 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -665,7 +665,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level2
+  m_Text: deck2
 --- !u!222 &286738862
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -687,7 +687,7 @@ GameObject:
   - component: {fileID: 389855867}
   - component: {fileID: 389855866}
   m_Layer: 0
-  m_Name: 'level5 '
+  m_Name: 'deck5 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -893,7 +893,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: ' level 6'
+  m_Text: ' deck6'
 --- !u!222 &579382055
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1208,7 +1208,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level 8
+  m_Text: deck 8
 --- !u!222 &729541125
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1369,7 +1369,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level 4
+  m_Text: deck4
 --- !u!222 &1138682486
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1391,7 +1391,7 @@ GameObject:
   - component: {fileID: 1323345120}
   - component: {fileID: 1323345119}
   m_Layer: 0
-  m_Name: 'level8 '
+  m_Name: 'deck8 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1619,7 +1619,7 @@ GameObject:
   - component: {fileID: 1488926584}
   - component: {fileID: 1488926583}
   m_Layer: 0
-  m_Name: ' level3'
+  m_Name: deckl3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2168,7 +2168,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level7
+  m_Text: deck7
 --- !u!222 &1678847261
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2263,7 +2263,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level 9
+  m_Text: deck9
 --- !u!222 &1827265378
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2285,7 +2285,7 @@ GameObject:
   - component: {fileID: 1829031954}
   - component: {fileID: 1829031953}
   m_Layer: 0
-  m_Name: 'level2 '
+  m_Name: 'deckl2 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2551,7 +2551,7 @@ GameObject:
   - component: {fileID: 1839104467}
   - component: {fileID: 1839104466}
   m_Layer: 0
-  m_Name: level4
+  m_Name: deck4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2800,7 +2800,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level 5
+  m_Text: deck5
 --- !u!222 &1932659858
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2905,7 +2905,7 @@ GameObject:
   - component: {fileID: 1969029181}
   - component: {fileID: 1969029180}
   m_Layer: 0
-  m_Name: 'level9 '
+  m_Name: 'deck9 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3038,7 +3038,7 @@ GameObject:
   - component: {fileID: 1970611631}
   - component: {fileID: 1970611630}
   m_Layer: 0
-  m_Name: 'level7 '
+  m_Name: 'deck7 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3432,7 +3432,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: level 3
+  m_Text: deck 3
 --- !u!222 &2139042482
 CanvasRenderer:
   m_ObjectHideFlags: 0

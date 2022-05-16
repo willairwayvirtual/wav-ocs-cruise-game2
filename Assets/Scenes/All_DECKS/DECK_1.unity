@@ -249,9 +249,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 140829070}
-  forwardForce: 2000
+  forwardForce: 600
   speed: 500
-  sidewaysForce: 2000
+  sidewaysForce: 400
 --- !u!1 &599608474
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,6 +359,7 @@ GameObject:
   - component: {fileID: 695273420}
   - component: {fileID: 695273419}
   - component: {fileID: 695273422}
+  - component: {fileID: 695273421}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -417,6 +418,20 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &695273421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 695273418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0443b7f0c1374564194fb682faeed233, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 140829069}
+  offset: {x: 0, y: 3, z: -5}
 --- !u!222 &695273422
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -433,7 +448,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 695273418}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -49.9}
+  m_LocalPosition: {x: 0, y: 0, z: -74.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -836,7 +851,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0

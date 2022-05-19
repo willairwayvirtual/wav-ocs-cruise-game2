@@ -37,5 +37,18 @@ public class paus : MonoBehaviour
         Time.timeScale = 0f;
         gameispaused = true;
     }
-}
+    public void restart1()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 0);
+    }
 
+    public void all_levels1()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 3);
+    }
+    public void Quit()
+    {
+        Debug.Log("quit?");
+        Application.Quit();
+    }
+}

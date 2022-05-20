@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game_Levels.unity
     guid: c68abcbffa472fd43b3c0bc1cbe01dff
+  - enabled: 1
+    path: Assets/Scenes/All_DECKS/DECK_1.unity
+    guid: dcb674da9b5e0bd4c94668c1713e99e1
   m_configObjects: {}

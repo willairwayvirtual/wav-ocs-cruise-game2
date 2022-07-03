@@ -25,7 +25,7 @@ public class PauseMenu : MonoBehaviour
                 }
         }
     }
-    void Resume()
+    public void Resume()
     {
         PauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
@@ -36,5 +36,14 @@ public class PauseMenu : MonoBehaviour
         PauseMenuUI.SetActive(true);
         Time.timeScale = 0f;
         gameispaused = true;
+    }
+    public void Quit()
+    {
+        Debug.Log("quit?");
+        Application.Quit();
+    }
+    public void all_decks()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 }

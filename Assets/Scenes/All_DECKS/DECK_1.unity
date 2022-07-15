@@ -255,6 +255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -524,6 +528,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -739,6 +747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -796,6 +808,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -852,6 +868,10 @@ PrefabInstance:
     - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
@@ -1002,6 +1022,10 @@ PrefabInstance:
     - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
@@ -1260,6 +1284,10 @@ PrefabInstance:
     - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_Name
       value: rbCHECK-IN DESKS
+      objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
@@ -1588,6 +1616,10 @@ PrefabInstance:
     - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
@@ -1946,6 +1978,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -2122,6 +2158,7 @@ GameObject:
   - component: {fileID: 1554937823}
   - component: {fileID: 1554937827}
   - component: {fileID: 1554937828}
+  - component: {fileID: 1554937829}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -2237,6 +2274,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &1554937829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554937822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 631f2ce19ba1e2240aa4ba502f43b37e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movement: {fileID: 1554937827}
 --- !u!1001 &1657957336
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2247,6 +2297,10 @@ PrefabInstance:
     - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
@@ -2705,6 +2759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -2762,6 +2820,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -2818,6 +2880,10 @@ PrefabInstance:
     - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_Name
       value: rbCHECK-IN DESKS (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1653249252234589219, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 1653249252234589231, guid: 0e274e4527be8a44abb9fe96871eccd1, type: 3}
       propertyPath: m_RootOrder

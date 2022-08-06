@@ -38,11 +38,12 @@ public class PlayerMovement : MonoBehaviour
 		if (Input.GetKey("a"))  // If the player is pressing the "a" key
 		{        // Add a force to the left
 			rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0);
-			if (rb.position.y < -2f)
-			{
-				FindObjectOfType<GameManager>().EndGame();
-			}
 		}
+		if (rb.position.y < -2f)
+		{
+				FindObjectOfType<GameManager>().EndGame();
+		}
+		
 	}
 }
 

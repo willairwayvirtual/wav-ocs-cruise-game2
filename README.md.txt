@@ -14,3 +14,5 @@ https://youtu.be/-QEnDYLv45o
 - https://www.youtube.com/watch?v=fXeDe9tafG8
 tap cotrol in unity
 https://www.youtube.com/watch?v=0M-9EtUArhw
+App icons
+https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/

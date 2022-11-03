@@ -16,3 +16,5 @@ tap cotrol in unity
 https://www.youtube.com/watch?v=0M-9EtUArhw
 App icons
 https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/
+How to Use 3 Different Touch/Mobile Controls - Unity 2021 Visual Scripting Tutorial (Bolt
+https://www.youtube.com/watch?v=HYpP1kJPEZA

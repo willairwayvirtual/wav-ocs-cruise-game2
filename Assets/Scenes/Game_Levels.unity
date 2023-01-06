@@ -1073,7 +1073,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1532142390}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: levelmenu, Assembly-CSharp
         m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
@@ -1946,7 +1946,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1532142384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2adb22753a997af48a4bed3d51a5ae8f, type: 3}
+  m_Script: {fileID: 11500000, guid: 1b8ecdda0b223334782b7afd46014b15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1671399153
@@ -2033,7 +2033,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1532142390}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: levelmenu, Assembly-CSharp
         m_MethodName: restart1
         m_Mode: 1
         m_Arguments:
@@ -2489,8 +2489,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1532142390}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: playgame2
+        m_TargetAssemblyTypeName: levelmenu, Assembly-CSharp
+        m_MethodName: restart21
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

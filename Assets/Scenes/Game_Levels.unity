@@ -207,7 +207,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1532142390}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: levelmenu, Assembly-CSharp
         m_MethodName: leveiloader1
         m_Mode: 1
         m_Arguments:

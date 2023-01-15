@@ -23,5 +23,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/All_DECKS/DECK_1.unity
     guid: dcb674da9b5e0bd4c94668c1713e99e1
+  - enabled: 1
+    path: Assets/Scenes/Credit scene.unity
+    guid: 26923a40fe0ac8b46b446a78b86ca8cc
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9bb3deeca0ad7c942a5b3a45e32f86f7, type: 2}

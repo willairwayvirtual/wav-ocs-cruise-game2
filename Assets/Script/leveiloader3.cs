@@ -28,5 +28,9 @@ public class leveiloader3 : MonoBehaviour
             yield return null;
         }
     }
-
+    public void Quit()
+    {
+        Debug.Log("quit?");
+        Application.Quit();
+    }
 }

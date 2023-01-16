@@ -29,5 +29,12 @@ public class leveiloader5 : MonoBehaviour
         }
     }
 
+
+public void Quit()
+{
+    Debug.Log("quit?");
+    Application.Quit();
 }
+}
+
 

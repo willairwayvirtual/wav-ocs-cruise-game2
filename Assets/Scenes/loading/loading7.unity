@@ -98,8 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 4890085278179872738, guid: 68df681c0c921ad4eb927183888a23ad,
-    type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: 68df681c0c921ad4eb927183888a23ad, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -290,9 +289,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1117088193}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: Quit1
+      - m_Target: {fileID: 650624139}
+        m_TargetAssemblyTypeName: leveiloader7, Assembly-CSharp
+        m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

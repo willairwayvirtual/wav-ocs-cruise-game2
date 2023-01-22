@@ -24,5 +24,10 @@ public class levelmenu : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+public void leveiloader2()
+{
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
+}
 }
 

@@ -4,9 +4,9 @@ using UnityEngine.SceneManagement;
 
 public class LevelComplete1 : MonoBehaviour
 { 
-        public void LoadNextLevel()
+    public void LoadNextLevel()
 {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex -10);
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex -2);
 }
-
+    
 }

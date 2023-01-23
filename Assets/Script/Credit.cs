@@ -8,6 +8,6 @@ public class Credit : MonoBehaviour
 
     public void maunLevel()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 6);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 22);
     }
 }

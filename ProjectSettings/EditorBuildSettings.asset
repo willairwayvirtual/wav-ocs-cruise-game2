@@ -75,4 +75,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Credit scene.unity
     guid: 26923a40fe0ac8b46b446a78b86ca8cc
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dd1bcf85c284673429eeb5aa7bb37b5a, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9bb3deeca0ad7c942a5b3a45e32f86f7, type: 2}

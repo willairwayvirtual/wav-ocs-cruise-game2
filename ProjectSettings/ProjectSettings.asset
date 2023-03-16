@@ -139,6 +139,7 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 2558027872916271977, guid: dd1bcf85c284673429eeb5aa7bb37b5a, type: 2}
+  - {fileID: 11400000, guid: a408176dab4d14a4eb3735989b212db6, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -862,7 +863,7 @@ PlayerSettings:
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
   enableRoslynAnalyzers: 1
-  selectedPlatform: 0
+  selectedPlatform: 5
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
   gcIncremental: 1
@@ -893,7 +894,9 @@ PlayerSettings:
   metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities: {}
-  metroTargetDeviceFamilies: {}
+  metroTargetDeviceFamilies:
+    Desktop: True
+    Xbox: True
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 

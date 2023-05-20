@@ -2637,7 +2637,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 1554937828}
   forwardForce: 2000
-  speed: 0
+  speed: 2
   sidewaysForce: 500
   moveJoystick: {fileID: 136251880}
 --- !u!54 &1554937828
@@ -3141,7 +3141,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 36.69998, y: 116.5}
+  m_AnchoredPosition: {x: 36.69987, y: 116.499985}
   m_SizeDelta: {x: 209.14, y: 37.2472}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1860248719

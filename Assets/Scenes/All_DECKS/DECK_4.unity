@@ -2701,7 +2701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 1554937828}
   forwardForce: 2000
-  speed: 0
+  speed: 2
   sidewaysForce: 500
   moveJoystick: {fileID: 136251880}
 --- !u!54 &1554937828

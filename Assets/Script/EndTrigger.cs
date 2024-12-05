@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class EndTrigger : MonoBehaviour
@@ -9,6 +10,4 @@ public class EndTrigger : MonoBehaviour
     {
         gameManager.CompleteLevel();
     }
-
 }
-
